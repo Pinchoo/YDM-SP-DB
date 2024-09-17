@@ -1,0 +1,22 @@
+{
+    "id": 56784842,
+    "name": "Angel O7",
+    "type": "Monster",
+    "atk": 2500,
+    "def": 1500,
+    "level": 7,
+    "attribute": "LIGHT",
+    "archetype": "Fairy",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/56784842.jpg"
+    ],
+    "text": "When this card is Tribute Summoned, it gains the following effect: \u25cf The effects of Effect Monsters cannot be activated.",
+    "is_illegal": false,
+    "is_custom": false,
+    "species": "Fairy",
+    "has_effect": true,
+    "monster_type": "",
+    "is_pendulum": false,
+    "is_tuner": false,
+    "ability": ""
+}

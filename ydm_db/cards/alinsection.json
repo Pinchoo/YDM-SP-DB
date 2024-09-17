@@ -1,0 +1,21 @@
+{
+    "id": 70924884,
+    "name": "Alinsection",
+    "type": "Monster",
+    "atk": 950,
+    "def": 700,
+    "level": 3,
+    "attribute": "EARTH",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/70924884.jpg"
+    ],
+    "text": "A stag beetle with a saw-like head and arms.",
+    "is_illegal": false,
+    "is_custom": false,
+    "species": "Insect",
+    "has_effect": false,
+    "monster_type": "",
+    "is_pendulum": false,
+    "is_tuner": false,
+    "ability": ""
+}

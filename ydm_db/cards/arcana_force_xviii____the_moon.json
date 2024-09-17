@@ -1,0 +1,22 @@
+{
+    "id": 97452817,
+    "name": "Arcana Force XVIII - The Moon",
+    "type": "Monster",
+    "atk": 2800,
+    "def": 2800,
+    "level": 7,
+    "attribute": "LIGHT",
+    "archetype": "Arcana Force",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/97452817.jpg"
+    ],
+    "text": "When this card is Summoned, toss a coin: \u25cf Heads: During your Standby Phase, you can Special Summon 1 \"Moon Token\" (Fairy-Type/LIGHT/Level 1/ATK 0/DEF 0). \u25cf Tails: During each of your End Phases, select 1 monster you control and give control of it to your opponent.",
+    "is_illegal": false,
+    "is_custom": false,
+    "species": "Fairy",
+    "has_effect": true,
+    "monster_type": "",
+    "is_pendulum": false,
+    "is_tuner": false,
+    "ability": ""
+}

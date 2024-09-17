@@ -1,0 +1,13 @@
+{
+    "id": 62325062,
+    "name": "Adhesion Trap Hole",
+    "type": "Trap",
+    "archetype": "Hole",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/62325062.jpg"
+    ],
+    "text": "When your opponent Summons a monster(s): Halve that monster(s)'s original ATK.",
+    "is_illegal": false,
+    "is_custom": false,
+    "trap_type": "Normal"
+}

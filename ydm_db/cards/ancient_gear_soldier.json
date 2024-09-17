@@ -1,0 +1,22 @@
+{
+    "id": 56094445,
+    "name": "Ancient Gear Soldier",
+    "type": "Monster",
+    "atk": 1300,
+    "def": 1300,
+    "level": 4,
+    "attribute": "EARTH",
+    "archetype": "Ancient Gear",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/56094445.jpg"
+    ],
+    "text": "If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step.",
+    "is_illegal": false,
+    "is_custom": false,
+    "species": "Machine",
+    "has_effect": true,
+    "monster_type": "",
+    "is_pendulum": false,
+    "is_tuner": false,
+    "ability": ""
+}

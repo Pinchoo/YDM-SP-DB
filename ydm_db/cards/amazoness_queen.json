@@ -1,0 +1,22 @@
+{
+    "id": 15951532,
+    "name": "Amazoness Queen",
+    "type": "Monster",
+    "atk": 2400,
+    "def": 1800,
+    "level": 6,
+    "attribute": "EARTH",
+    "archetype": "Amazoness",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/15951532.jpg"
+    ],
+    "text": "\"Amazoness\" monsters you control cannot be destroyed by battle.",
+    "is_illegal": false,
+    "is_custom": false,
+    "species": "Warrior",
+    "has_effect": true,
+    "monster_type": "",
+    "is_pendulum": false,
+    "is_tuner": false,
+    "ability": ""
+}

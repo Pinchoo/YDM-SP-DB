@@ -1,0 +1,13 @@
+{
+    "id": 295517,
+    "name": "A Legendary Ocean",
+    "type": "Spell",
+    "archetype": "Umi",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/295517.jpg"
+    ],
+    "text": "(This card's name is always treated as \"Umi\".)\r\nAll WATER monsters on the field gain 200 ATK/DEF. Reduce the Level of all WATER monsters in both players' hands and on the field by 1.",
+    "is_illegal": false,
+    "is_custom": false,
+    "spell_type": "Field"
+}

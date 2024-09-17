@@ -1,0 +1,12 @@
+{
+    "id": 24140059,
+    "name": "A Cat of Ill Omen",
+    "type": "Flip Effect Monster",
+    "race": "Beast",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/24140059.jpg"
+    ],
+    "text": "FLIP: Choose 1 Trap from your Deck and place it on top of your Deck, or, if \"Necrovalley\" is on the field, you can add that Trap to your hand instead.",
+    "is_illegal": false,
+    "is_custom": false
+}

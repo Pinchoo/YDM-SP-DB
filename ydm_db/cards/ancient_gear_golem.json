@@ -1,0 +1,22 @@
+{
+    "id": 83104731,
+    "name": "Ancient Gear Golem",
+    "type": "Monster",
+    "atk": 3000,
+    "def": 3000,
+    "level": 8,
+    "attribute": "EARTH",
+    "archetype": "Ancient Gear",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/83104731.jpg"
+    ],
+    "text": "Cannot be Special Summoned. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. If this card attacks a Defense Position monster, inflict piercing battle damage.",
+    "is_illegal": false,
+    "is_custom": false,
+    "species": "Machine",
+    "has_effect": true,
+    "monster_type": "",
+    "is_pendulum": false,
+    "is_tuner": false,
+    "ability": ""
+}

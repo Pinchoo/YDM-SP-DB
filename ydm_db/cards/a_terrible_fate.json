@@ -1,0 +1,12 @@
+{
+  "id": 111111102,
+  "name": "A Terrible Fate",
+  "type": "Spell",
+  "images": [
+    "https://sdmstorage69.blob.core.windows.net/images/Images/Cards/SBC1-ENS15.png"
+  ],
+  "text": "SKILL: Once per Duel, during your End Phase, Tribute 1 face-up Spellcaster monster you control, then your opponent destroys 1 card they control or sends 1 card from their hand to the GY (their choice).",
+  "is_illegal": false,
+  "is_custom": false,
+  "spell_type": "Normal"
+}

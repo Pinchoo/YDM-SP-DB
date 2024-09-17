@@ -1,0 +1,22 @@
+{
+    "id": 29603180,
+    "name": "Annihilator Archfiend",
+    "type": "Monster",
+    "atk": 2000,
+    "def": 3000,
+    "level": 9,
+    "attribute": "DARK",
+    "archetype": "Archfiend",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/29603180.jpg"
+    ],
+    "text": "You can target 1 card you control and 1 card your opponent controls; destroy them, and if you destroyed a face-up Fiend monster(s) by this effect, this card gains ATK equal to half the Fiend monster(s)'s original ATK, until the end of this turn. You can only use this effect of \"Annihilator Archfiend\" once per turn.",
+    "is_illegal": false,
+    "is_custom": false,
+    "species": "Fiend",
+    "has_effect": true,
+    "monster_type": "",
+    "is_pendulum": false,
+    "is_tuner": false,
+    "ability": ""
+}

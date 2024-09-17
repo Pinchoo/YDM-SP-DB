@@ -1,0 +1,22 @@
+{
+    "id": 85639257,
+    "name": "Aqua Madoor",
+    "type": "Monster",
+    "atk": 1200,
+    "def": 2000,
+    "level": 4,
+    "attribute": "WATER",
+    "archetype": "Madoor",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/85639257.jpg"
+    ],
+    "text": "A wizard of the waters that conjures a liquid wall to crush any enemies that oppose him.",
+    "is_illegal": false,
+    "is_custom": false,
+    "species": "Spellcaster",
+    "has_effect": false,
+    "monster_type": "",
+    "is_pendulum": false,
+    "is_tuner": false,
+    "ability": ""
+}

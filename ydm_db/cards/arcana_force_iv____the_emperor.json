@@ -1,0 +1,22 @@
+{
+    "id": 61175706,
+    "name": "Arcana Force IV - The Emperor",
+    "type": "Monster",
+    "atk": 1400,
+    "def": 1400,
+    "level": 4,
+    "attribute": "LIGHT",
+    "archetype": "Arcana Force",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/61175706.jpg"
+    ],
+    "text": "When this card is Summoned, toss a coin: \u25cf Heads: All \"Arcana Force\" monsters you control gain 500 ATK. \u25cf Tails: All \"Arcana Force\" monsters you control lose 500 ATK.",
+    "is_illegal": false,
+    "is_custom": false,
+    "species": "Fairy",
+    "has_effect": true,
+    "monster_type": "",
+    "is_pendulum": false,
+    "is_tuner": false,
+    "ability": ""
+}

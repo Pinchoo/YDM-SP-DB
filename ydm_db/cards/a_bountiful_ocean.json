@@ -1,0 +1,12 @@
+{
+  "id": 111111101,
+  "name": "A Bountiful Ocean",
+  "type": "Spell",
+  "images": [
+    "https://sdmstorage69.blob.core.windows.net/images/Images/Cards/SBC1-ENS11.png"
+  ],
+  "text": "SKILL: While \"Umi\" is face-up on the field, apply the following: \u25cf Non-Effect WATER monsters you control are unaffected by non-WATER monster effects. \u25cf Once per turn, you can add 1 WATER monster from your GY to your hand, but for the rest of this turn, you cannot activate cards or effects, until you Normal Summon that monster or a card with its name.",
+  "is_illegal": false,
+  "is_custom": false,
+  "spell_type": "Normal"
+}

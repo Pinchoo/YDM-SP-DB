@@ -1,0 +1,22 @@
+{
+    "id": 36378213,
+    "name": "Ambulanceroid",
+    "type": "Monster",
+    "atk": 300,
+    "def": 1200,
+    "level": 3,
+    "attribute": "EARTH",
+    "archetype": "Roid",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/36378213.jpg"
+    ],
+    "text": "When a \"roid\" monster is added from your Graveyard to your hand, you can Special Summon that monster.",
+    "is_illegal": false,
+    "is_custom": false,
+    "species": "Machine",
+    "has_effect": true,
+    "monster_type": "",
+    "is_pendulum": false,
+    "is_tuner": false,
+    "ability": ""
+}

@@ -1,0 +1,13 @@
+{
+    "id": 98927491,
+    "name": "Ambulance Rescueroid",
+    "type": "Fusion Monster",
+    "race": "Machine",
+    "archetype": "Roid",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/98927491.jpg"
+    ],
+    "text": "\"Rescueroid\" + \"Ambulanceroid\"\nThis monster cannot be Special Summoned except by Fusion Summon. Once per turn, when a monster on your side of the field is destroyed by battle and sent to the Graveyard, you can Special Summon that monster in Defense Position.",
+    "is_illegal": false,
+    "is_custom": false
+}

@@ -1,0 +1,21 @@
+{
+    "id": 8715625,
+    "name": "Bokoichi the Freightening Car",
+    "type": "Monster",
+    "atk": 500,
+    "def": 500,
+    "level": 2,
+    "attribute": "DARK",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/8715625.jpg"
+    ],
+    "text": "A freight car that is exclusively for Dekoichi. It can transport anything, but most cargo arrives broken.",
+    "is_illegal": false,
+    "is_custom": false,
+    "species": "Machine",
+    "has_effect": false,
+    "monster_type": "",
+    "is_pendulum": false,
+    "is_tuner": false,
+    "ability": ""
+}

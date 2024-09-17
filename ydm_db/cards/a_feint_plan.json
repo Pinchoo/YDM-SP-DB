@@ -1,0 +1,12 @@
+{
+    "id": 68170903,
+    "name": "A Feint Plan",
+    "type": "Trap",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/68170903.jpg"
+    ],
+    "text": "A player cannot attack face-down monsters during this turn.",
+    "is_illegal": false,
+    "is_custom": false,
+    "trap_type": "Normal"
+}

@@ -1,0 +1,21 @@
+{
+    "id": 20277860,
+    "name": "Armored Zombie",
+    "type": "Monster",
+    "atk": 1500,
+    "def": 0,
+    "level": 3,
+    "attribute": "DARK",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/20277860.jpg"
+    ],
+    "text": "This warrior blindly swings a deadly blade with devastating force.",
+    "is_illegal": false,
+    "is_custom": false,
+    "species": "Zombie",
+    "has_effect": false,
+    "monster_type": "",
+    "is_pendulum": false,
+    "is_tuner": false,
+    "ability": ""
+}

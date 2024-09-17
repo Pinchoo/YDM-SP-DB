@@ -1,0 +1,22 @@
+{
+    "id": 99785935,
+    "name": "Alpha The Magnet Warrior",
+    "type": "Monster",
+    "atk": 1400,
+    "def": 1700,
+    "level": 4,
+    "attribute": "EARTH",
+    "archetype": "Magnet Warrior",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/99785935.jpg"
+    ],
+    "text": "''Alpha, Beta, and Gamma meld as one to form a powerful monster.''",
+    "is_illegal": false,
+    "is_custom": false,
+    "species": "Rock",
+    "has_effect": false,
+    "monster_type": "",
+    "is_pendulum": false,
+    "is_tuner": false,
+    "ability": ""
+}

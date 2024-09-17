@@ -1,0 +1,22 @@
+{
+    "id": 980973,
+    "name": "Armed Dragon LV3",
+    "type": "Monster",
+    "atk": 1200,
+    "def": 900,
+    "level": 3,
+    "attribute": "WIND",
+    "archetype": "Armed Dragon",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/980973.jpg"
+    ],
+    "text": "During your Standby Phase: You can send this card to the GY; Special Summon 1 \"Armed Dragon LV5\" from your hand or Deck.",
+    "is_illegal": false,
+    "is_custom": false,
+    "species": "Dragon",
+    "has_effect": true,
+    "monster_type": "",
+    "is_pendulum": false,
+    "is_tuner": false,
+    "ability": ""
+}

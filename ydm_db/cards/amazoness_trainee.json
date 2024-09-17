@@ -1,0 +1,22 @@
+{
+    "id": 89567993,
+    "name": "Amazoness Trainee",
+    "type": "Monster",
+    "atk": 1500,
+    "def": 1300,
+    "level": 4,
+    "attribute": "EARTH",
+    "archetype": "Amazoness",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/89567993.jpg"
+    ],
+    "text": "Monsters destroyed by battle with this card are returned to the bottom of the Deck instead of going to the GY. If this card destroys an opponent's monster by battle: It gains 200 ATK.",
+    "is_illegal": false,
+    "is_custom": false,
+    "species": "Warrior",
+    "has_effect": true,
+    "monster_type": "",
+    "is_pendulum": false,
+    "is_tuner": false,
+    "ability": ""
+}

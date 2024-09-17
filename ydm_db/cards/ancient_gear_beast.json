@@ -1,0 +1,22 @@
+{
+    "id": 10509340,
+    "name": "Ancient Gear Beast",
+    "type": "Monster",
+    "atk": 2000,
+    "def": 2000,
+    "level": 6,
+    "attribute": "EARTH",
+    "archetype": "Ancient Gear",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/10509340.jpg"
+    ],
+    "text": "Cannot be Special Summoned. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. Negate the effects of an opponent's monster destroyed by battle with this card (including in the Graveyard).",
+    "is_illegal": false,
+    "is_custom": false,
+    "species": "Machine",
+    "has_effect": true,
+    "monster_type": "",
+    "is_pendulum": false,
+    "is_tuner": false,
+    "ability": ""
+}

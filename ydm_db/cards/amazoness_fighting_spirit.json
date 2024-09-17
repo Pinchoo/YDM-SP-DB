@@ -1,0 +1,13 @@
+{
+    "id": 36100154,
+    "name": "Amazoness Fighting Spirit",
+    "type": "Spell",
+    "archetype": "Amazoness",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/36100154.jpg"
+    ],
+    "text": "If an \"Amazoness\" monster attacks a monster with higher ATK, the attacking monster gains 1000 ATK during damage calculation only.",
+    "is_illegal": false,
+    "is_custom": false,
+    "spell_type": "Continuous"
+}

@@ -1,0 +1,13 @@
+{
+    "id": 56246017,
+    "name": "Archfiend's Roar",
+    "type": "Trap",
+    "archetype": "Archfiend",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/56246017.jpg"
+    ],
+    "text": "Pay 500 Life Points, then target 1 \"Archfiend\" monster in your Graveyard; Special Summon that target. It cannot be Tributed. Destroy it during the End Phase of this turn.",
+    "is_illegal": false,
+    "is_custom": false,
+    "trap_type": "Normal"
+}

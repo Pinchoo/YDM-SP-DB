@@ -1,0 +1,22 @@
+{
+    "id": 64428736,
+    "name": "Alligator's Sword",
+    "type": "Monster",
+    "atk": 1500,
+    "def": 1200,
+    "level": 4,
+    "attribute": "EARTH",
+    "archetype": "Alligator",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/64428736.jpg"
+    ],
+    "text": "ey, dis mighty lissard man can swing his sword so fast, dat it's more dan da speed a sound!",
+    "is_illegal": false,
+    "is_custom": false,
+    "species": "Beast",
+    "has_effect": false,
+    "monster_type": "",
+    "is_pendulum": false,
+    "is_tuner": false,
+    "ability": ""
+}

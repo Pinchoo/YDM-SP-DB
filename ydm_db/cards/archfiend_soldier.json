@@ -1,0 +1,22 @@
+{
+    "id": 49881766,
+    "name": "Archfiend Soldier",
+    "type": "Monster",
+    "atk": 1900,
+    "def": 1500,
+    "level": 4,
+    "attribute": "DARK",
+    "archetype": "Archfiend",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/49881766.jpg"
+    ],
+    "text": "An expert at battle who belongs to a crack diabolical unit. He's famous because he always gets the job done.",
+    "is_illegal": false,
+    "is_custom": false,
+    "species": "Fiend",
+    "has_effect": false,
+    "monster_type": "",
+    "is_pendulum": false,
+    "is_tuner": false,
+    "ability": ""
+}

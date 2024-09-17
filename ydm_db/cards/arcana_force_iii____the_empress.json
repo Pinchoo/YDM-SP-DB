@@ -1,0 +1,22 @@
+{
+    "id": 35781051,
+    "name": "Arcana Force III - The Empress",
+    "type": "Monster",
+    "atk": 1300,
+    "def": 1300,
+    "level": 4,
+    "attribute": "LIGHT",
+    "archetype": "Arcana Force",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/35781051.jpg"
+    ],
+    "text": "When this card is Summoned, toss a coin: \u25cf Heads: Each time your opponent Normal Summons or Sets a monster, you can Special Summon 1 \"Arcana Force\" monster from your hand. \u25cf Tails: Each time your opponent Normal Summons or Sets a monster, send 1 card from your hand to the Graveyard.",
+    "is_illegal": false,
+    "is_custom": false,
+    "species": "Fairy",
+    "has_effect": true,
+    "monster_type": "",
+    "is_pendulum": false,
+    "is_tuner": false,
+    "ability": ""
+}
