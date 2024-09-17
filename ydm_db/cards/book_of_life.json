@@ -1,0 +1,13 @@
+{
+    "id": 2204140,
+    "name": "Book of Life",
+    "type": "Spell",
+    "archetype": "Book of",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/2204140.jpg"
+    ],
+    "text": "Target 1 Zombie monster in your GY and 1 monster in your opponent's GY; Special Summon the first target, also banish the second target.",
+    "is_illegal": false,
+    "is_custom": false,
+    "spell_type": "Normal"
+}

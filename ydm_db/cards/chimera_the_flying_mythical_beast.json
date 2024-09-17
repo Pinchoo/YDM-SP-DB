@@ -1,0 +1,12 @@
+{
+    "id": 4796100,
+    "name": "Chimera the Flying Mythical Beast",
+    "type": "Fusion Monster",
+    "race": "Beast",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/4796100.jpg"
+    ],
+    "text": "\"Gazelle the King of Mythical Beasts\" + \"Berfomet\"\n(This card is always treated as a \"Phantom Beast\" card.)\nWhen this card is destroyed: You can target 1 \"Berfomet\" or 1 \"Gazelle the King of Mythical Beasts\" in your Graveyard; Special Summon that target.",
+    "is_illegal": false,
+    "is_custom": false
+}

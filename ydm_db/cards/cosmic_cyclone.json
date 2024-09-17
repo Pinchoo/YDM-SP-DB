@@ -1,0 +1,12 @@
+{
+    "id": 8267140,
+    "name": "Cosmic Cyclone",
+    "type": "Spell",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/8267140.jpg"
+    ],
+    "text": "Pay 1000 LP, then target 1 Spell/Trap on the field; banish it.",
+    "is_illegal": false,
+    "is_custom": false,
+    "spell_type": "Quick-Play"
+}

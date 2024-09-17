@@ -1,0 +1,22 @@
+{
+    "id": 72630549,
+    "name": "Chaos Command Magician",
+    "type": "Monster",
+    "atk": 2400,
+    "def": 1900,
+    "level": 6,
+    "attribute": "LIGHT",
+    "archetype": "Chaos",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/72630549.jpg"
+    ],
+    "text": "Negate the effect of a Monster Card that targets this 1 card.",
+    "is_illegal": false,
+    "is_custom": false,
+    "species": "Spellcaster",
+    "has_effect": true,
+    "monster_type": "",
+    "is_pendulum": false,
+    "is_tuner": false,
+    "ability": ""
+}

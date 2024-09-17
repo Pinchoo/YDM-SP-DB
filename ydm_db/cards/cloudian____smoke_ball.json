@@ -1,0 +1,22 @@
+{
+    "id": 80825553,
+    "name": "Cloudian - Smoke Ball",
+    "type": "Monster",
+    "atk": 200,
+    "def": 600,
+    "level": 1,
+    "attribute": "WATER",
+    "archetype": "Cloudian",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/80825553.jpg"
+    ],
+    "text": "Smoke Balls are newly born Cloudians. They fear being alone, and would rather swing and sway in the sky with their friends.",
+    "is_illegal": false,
+    "is_custom": false,
+    "species": "Fairy",
+    "has_effect": false,
+    "monster_type": "",
+    "is_pendulum": false,
+    "is_tuner": false,
+    "ability": ""
+}

@@ -1,0 +1,22 @@
+{
+    "id": 15981690,
+    "name": "Carboneddon",
+    "type": "Monster",
+    "atk": 800,
+    "def": 600,
+    "level": 3,
+    "attribute": "EARTH",
+    "archetype": "Bonding",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/15981690.jpg"
+    ],
+    "text": "If this card battles a FIRE monster, during damage calculation: This card gains 1000 ATK during damage calculation only. You can banish this card from your Graveyard; Special Summon, from your hand or Deck, 1 Level 7 or lower Dragon-Type Normal Monster in face-up Defense Position. You can only use this effect of \"Carboneddon\" once per turn.",
+    "is_illegal": false,
+    "is_custom": false,
+    "species": "Dinosaur",
+    "has_effect": true,
+    "monster_type": "",
+    "is_pendulum": false,
+    "is_tuner": false,
+    "ability": ""
+}

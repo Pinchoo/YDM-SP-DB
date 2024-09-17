@@ -1,0 +1,22 @@
+{
+    "id": 18914778,
+    "name": "Change Slime",
+    "type": "Monster",
+    "atk": 400,
+    "def": 300,
+    "level": 1,
+    "attribute": "WATER",
+    "archetype": "Slime",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/18914778.jpg"
+    ],
+    "text": "A slime that can morph and adopt the shape and size of any monster it chooses.",
+    "is_illegal": false,
+    "is_custom": false,
+    "species": "Aqua",
+    "has_effect": false,
+    "monster_type": "",
+    "is_pendulum": false,
+    "is_tuner": false,
+    "ability": ""
+}

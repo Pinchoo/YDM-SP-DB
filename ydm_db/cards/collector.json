@@ -1,0 +1,12 @@
+{
+  "id": 111111105,
+  "name": "Collector",
+  "type": "Spell",
+  "images": [
+    "https://sdmstorage69.blob.core.windows.net/images/Images/Cards/SBC1-ENS14.png"
+  ],
+  "text": "SKILL: Once per Duel, if your opponent controls a monster, discard 2 cards with different card types (Monster, Spell, Trap) then add 1 card from your Deck to your hand of the third type.",
+  "is_illegal": false,
+  "is_custom": false,
+  "spell_type": "Normal"
+}

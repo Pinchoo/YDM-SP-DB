@@ -1,0 +1,21 @@
+{
+    "id": 16956455,
+    "name": "Chiron the Mage",
+    "type": "Monster",
+    "atk": 1800,
+    "def": 1000,
+    "level": 4,
+    "attribute": "EARTH",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/16956455.jpg"
+    ],
+    "text": "Once per turn: You can discard 1 Spell Card, then target 1 Spell/Trap Card your opponent controls; destroy that target.",
+    "is_illegal": false,
+    "is_custom": false,
+    "species": "Beast-Warrior",
+    "has_effect": true,
+    "monster_type": "",
+    "is_pendulum": false,
+    "is_tuner": false,
+    "ability": ""
+}

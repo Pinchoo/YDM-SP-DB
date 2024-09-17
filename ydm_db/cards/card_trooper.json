@@ -1,0 +1,21 @@
+{
+    "id": 85087012,
+    "name": "Card Trooper",
+    "type": "Monster",
+    "atk": 400,
+    "def": 400,
+    "level": 3,
+    "attribute": "EARTH",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/85087012.jpg"
+    ],
+    "text": "Once per turn: You can choose a number from 1 to 3, then send that many cards from the top of your Deck to the GY; this card gains 500 ATK for each card sent to the GY this way, until the end of this turn. If this card you control is destroyed and sent to your GY: Draw 1 card.",
+    "is_illegal": false,
+    "is_custom": false,
+    "species": "Machine",
+    "has_effect": true,
+    "monster_type": "",
+    "is_pendulum": false,
+    "is_tuner": false,
+    "ability": ""
+}

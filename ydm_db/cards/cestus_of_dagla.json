@@ -1,0 +1,12 @@
+{
+    "id": 28106077,
+    "name": "Cestus of Dagla",
+    "type": "Spell",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/28106077.jpg"
+    ],
+    "text": "Equip only to a Fairy-Type monster. It gains 500 ATK. If it inflicts battle damage to your opponent: Gain LP equal to the damage inflicted.",
+    "is_illegal": false,
+    "is_custom": false,
+    "spell_type": "Equip"
+}

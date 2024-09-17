@@ -1,0 +1,13 @@
+{
+    "id": 90135989,
+    "name": "Cloudian Squall",
+    "type": "Spell",
+    "archetype": "Cloudian",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/90135989.jpg"
+    ],
+    "text": "During each of your Standby Phases, place 1 Fog Counter on every face-up monster.",
+    "is_illegal": false,
+    "is_custom": false,
+    "spell_type": "Continuous"
+}

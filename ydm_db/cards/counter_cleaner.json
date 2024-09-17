@@ -1,0 +1,12 @@
+{
+    "id": 38834303,
+    "name": "Counter Cleaner",
+    "type": "Spell",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/38834303.jpg"
+    ],
+    "text": "Pay 500 Life Points. Remove all counters from the field.",
+    "is_illegal": false,
+    "is_custom": false,
+    "spell_type": "Normal"
+}

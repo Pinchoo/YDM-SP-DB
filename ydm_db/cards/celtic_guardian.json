@@ -1,0 +1,22 @@
+{
+    "id": 91152256,
+    "name": "Celtic Guardian",
+    "type": "Monster",
+    "atk": 1400,
+    "def": 1200,
+    "level": 4,
+    "attribute": "EARTH",
+    "archetype": "Celtic Guard",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/91152256.jpg"
+    ],
+    "text": "An elf who learned to wield a sword, he baffles enemies with lightning-swift attacks.",
+    "is_illegal": false,
+    "is_custom": false,
+    "species": "Warrior",
+    "has_effect": false,
+    "monster_type": "",
+    "is_pendulum": false,
+    "is_tuner": false,
+    "ability": ""
+}

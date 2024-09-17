@@ -1,0 +1,12 @@
+{
+    "id": 300302047,
+    "name": "Chillin' Outback",
+    "type": "Spell",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/300302047.jpg"
+    ],
+    "text": "SKILL: Once per turn, you can change 1 face-up \"Koala\" or \"Kangaroo\" monster's battle position. \"Koala\" and \"Kangaroo\" monsters you control can attack while in face-up Defense Position. If they do, apply their DEF for damage calculation.",
+    "is_illegal": false,
+    "is_custom": false,
+    "spell_type": "Normal"
+}

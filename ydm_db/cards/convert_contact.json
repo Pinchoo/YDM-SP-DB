@@ -1,0 +1,13 @@
+{
+    "id": 82639107,
+    "name": "Convert Contact",
+    "type": "Spell",
+    "archetype": "Neo-Spacian",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/82639107.jpg"
+    ],
+    "text": "If you control no monsters: Send 2 \"Neo-Spacian\" monsters (1 from your hand and 1 from your Deck) to the GY, then draw 2 cards.",
+    "is_illegal": false,
+    "is_custom": false,
+    "spell_type": "Normal"
+}

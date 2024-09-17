@@ -1,0 +1,13 @@
+{
+    "id": 38699854,
+    "name": "Book of Taiyou",
+    "type": "Spell",
+    "archetype": "Book of",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/38699854.jpg"
+    ],
+    "text": "Flip 1 face-down monster on the field into face-up Attack Position.",
+    "is_illegal": false,
+    "is_custom": false,
+    "spell_type": "Normal"
+}

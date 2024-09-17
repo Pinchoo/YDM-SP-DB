@@ -1,0 +1,22 @@
+{
+    "id": 13474291,
+    "name": "Cloudian - Storm Dragon",
+    "type": "Monster",
+    "atk": 1000,
+    "def": 0,
+    "level": 4,
+    "attribute": "WATER",
+    "archetype": "Cloudian",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/13474291.jpg"
+    ],
+    "text": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 1 \"Cloudian\" monster from your Graveyard. This card cannot be destroyed by battle. If this card is in face-up Defense Position, destroy it. Once per turn, you can place 1 Fog Counter on 1 monster on the field.",
+    "is_illegal": false,
+    "is_custom": false,
+    "species": "Fairy",
+    "has_effect": true,
+    "monster_type": "",
+    "is_pendulum": false,
+    "is_tuner": false,
+    "ability": ""
+}

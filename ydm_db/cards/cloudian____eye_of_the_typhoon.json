@@ -1,0 +1,22 @@
+{
+    "id": 57610714,
+    "name": "Cloudian - Eye of the Typhoon",
+    "type": "Monster",
+    "atk": 3000,
+    "def": 1000,
+    "level": 8,
+    "attribute": "WIND",
+    "archetype": "Cloudian",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/57610714.jpg"
+    ],
+    "text": "This card cannot be destroyed by battle. If this card is in face-up Defense Position, destroy it. When this card declares an attack, change the battle positions of all face-up monsters, except \"Cloudian\" monsters.",
+    "is_illegal": false,
+    "is_custom": false,
+    "species": "Aqua",
+    "has_effect": true,
+    "monster_type": "",
+    "is_pendulum": false,
+    "is_tuner": false,
+    "ability": ""
+}

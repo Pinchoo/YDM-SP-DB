@@ -1,0 +1,13 @@
+{
+    "id": 69313735,
+    "name": "Checkmate",
+    "type": "Spell",
+    "archetype": "Archfiend",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/69313735.jpg"
+    ],
+    "text": "Tribute 1 Archfiend monster on your side of the field. During this turn, 1 \"Terrorking Archfiend\" on your side of the field can attack your opponent's Life Points directly.",
+    "is_illegal": false,
+    "is_custom": false,
+    "spell_type": "Normal"
+}

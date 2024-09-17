@@ -1,0 +1,12 @@
+{
+    "id": 300302060,
+    "name": "Cold-Blooded Tactician",
+    "type": "Spell",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/300302060.jpg"
+    ],
+    "text": "SKILL: Once per turn, during your Main Phase, you can change the battle positions of monsters your opponent controls, up to the number of face-up Reptile monsters you control.",
+    "is_illegal": false,
+    "is_custom": false,
+    "spell_type": "Normal"
+}

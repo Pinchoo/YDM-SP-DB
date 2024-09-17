@@ -1,0 +1,21 @@
+{
+    "id": 95905259,
+    "name": "Chow Len the Prophet",
+    "type": "Monster",
+    "atk": 1800,
+    "def": 200,
+    "level": 4,
+    "attribute": "FIRE",
+    "images": [
+        "https://images.ygoprodeck.com/images/cards/95905259.jpg"
+    ],
+    "text": "Once per turn: You can declare either Spell or Trap, then target 1 Set card in your opponent's Spell & Trap Zone; look at that target, and if it is the declared card type, that card cannot be activated this turn.",
+    "is_illegal": false,
+    "is_custom": false,
+    "species": "Spellcaster",
+    "has_effect": true,
+    "monster_type": "",
+    "is_pendulum": false,
+    "is_tuner": false,
+    "ability": ""
+}
